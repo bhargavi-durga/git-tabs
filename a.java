@@ -11,6 +11,12 @@ class A{
 		System.out.println("the result is "+(a+b));
 
 }
+	public static sub(int a,int b){
+		
+		System.out.println("the result is "+(a-b));
+
+}
+
 
 
 }
