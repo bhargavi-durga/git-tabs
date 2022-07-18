@@ -6,5 +6,11 @@ class A{
 
 
 	}
+	public static add(int a,int b){
+		
+		System.out.println("the result is "+(a+b));
+
+}
+
 
 }
